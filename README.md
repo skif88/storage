@@ -1,0 +1,2 @@
+# storage
+# Simple blog 
